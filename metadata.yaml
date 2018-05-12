@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2816
     wikipedia: http://en.wikipedia.org/wiki/P._T._Barnum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45108#P.-T.-Barnum-s-Menagerie
 gutenberg_issued: '2014-03-10'
 gutenberg_type: Text
 identifiers:
