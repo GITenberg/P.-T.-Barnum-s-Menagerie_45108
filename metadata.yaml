@@ -1,0 +1,36 @@
+_repo: P.-T.-Barnum-s-Menagerie_45108
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45108-h/images/i_b_cover.jpg
+creator:
+  authors:
+  - agent_name: Burke, Sarah J.
+    gutenberg_agent_id: '43109'
+    url: http://www.gutenberg.org/2009/agents/43109
+  - agent_name: Barnum, P. T. (Phineas Taylor)
+    alias: Barnum, Phineas Taylor
+    birthdate: 1810
+    deathdate: 1891
+    gutenberg_agent_id: '2816'
+    url: http://www.gutenberg.org/2009/agents/2816
+    wikipedia: http://en.wikipedia.org/wiki/P._T._Barnum
+description: ''
+gutenberg_issued: '2014-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Storytelling -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: P. T. Barnum's Menagerie
+url: http://www.gutenberg.org/ebooks/45108
